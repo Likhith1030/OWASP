@@ -4,12 +4,12 @@ displaytext: Speakers
 layout: null
 tab: true
 order: 1
-tags: OWASP TIET
+tags: OWASP VIIT
 ---
 
 ## Speakers
 
-Would you like to speak on the upcoming OWASP TIET meetup? [Contact Us](mailto:prajit.sengupta@owasp.org)
+Would you like to speak on the upcoming OWASP VIIT meetup? [Contact Us](mailto:prajit.sengupta@owasp.org)
 
 **Email Format :**
 
@@ -21,6 +21,6 @@ Would you like to speak on the upcoming OWASP TIET meetup? [Contact Us](mailto:p
 - Contact Number
 - Speaker Profile
 - Presentation Details
-    - Name / Title of the Presentation
-    - Abstract of the presentation
-    - Presentation time required
+  - Name / Title of the Presentation
+  - Abstract of the presentation
+  - Presentation time required
