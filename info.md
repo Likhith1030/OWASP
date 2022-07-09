@@ -1,6 +1,6 @@
 ### Vignan Institute of Information and Technology
 
-- [Thapar Institute of Engineering and Technology](https://www.thapar.edu/)
+- [Vignan Institute of Information and Technology](https://www.thapar.edu/)
 
 ### Social Links
 
