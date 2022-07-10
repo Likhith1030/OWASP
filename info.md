@@ -1,11 +1,11 @@
 ### Vignan Institute of Information and Technology
 
-- [Vignan Institute of Information and Technology](https://www.thapar.edu/)
+- [Vignan Institute of Information and Technology](https://vignaniit.edu.in/)
 
 ### Social Links
 
-- [Discord](https://discord.gg/nnZCPbxnZu)
-- [Instagram](https://www.instagram.com/owasp_tiet/)
-- [GitHub](https://github.com/OWASP-STUDENT-CHAPTER)
-- [LinkedIn](https://www.linkedin.com/company/owasp-tiet/)
-- [Twitter](https://twitter.com/Owasp_tiet)
+- [Discord](https://discord.gg)
+- [Instagram](https://www.instagram.com)
+- [GitHub](https://github.com)
+- [LinkedIn](https://www.linkedin.com)
+- [Twitter](https://twitter.com)
