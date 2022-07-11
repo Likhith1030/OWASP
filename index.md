@@ -10,7 +10,7 @@ meetup-group: OWASP Vignan Institute of Information and Technology
 
 ## Welcome
 
-Vignan Institute of Information and Technology (VIIT) has been a steady source of highly skilled talent to the nation as well as overseas. A pioneer in engineering education, research and innovation. The team of OWASP Student Chapter, one of the gilt-edged coding society, involves ingenious mind solvers who are eager to make the world a better place to live in with their innovative techniques and discoveries. By successfully organizing many hackathons, tech-talks, workshops and coding nights, we have always strived hard to maintain the coding culture throughout the campus.
+Vignan Institute of Information and Technology (VIIT) has been a steady source of highly skilled talent to the nation as well as overseas. A pioneer in engineering education, research and innovation. The team of OWASP Student Chapter, one of the gilt-edged coding society, involves ingenious mind solvers who are eager to make the world a better place to live in with their innovative techniques and discoveries. By successfully organizing many hackathons, tech-talks, workshops and coding nights, we have always strived hard to maintain the coding culture throughout the campus
 
 ## Participation
 
@@ -44,7 +44,6 @@ Follow and Support us on
 <a href="https://www.linkedin.com/company/owasp-tiet/" target="_blank" > <img width = "20" height = "20" src ="./assets/images/linkedin-brands.svg"/> <span style = "font-family:sans-serif"> Linkedin </span></a> <br/>
 <a href="https://www.youtube.com/channel/UC_Qd7v56QH7UKp3u9Mu6Ksg" target="_blank" > <img width = "20" height = "20" src ="./assets/images/youtube-brands.svg"/> <span style = "font-family:sans-serif"> YouTube </span></a> <br/>
 <a href="https://www.facebook.com/owasptsc/" target="_blank" > <img width = "20" height = "20" src ="./assets/images/facebook-brands.svg"/> <span style = "font-family:sans-serif"> Facebook </span></a> <br/>
-
 
 Stay Updated, Stay Safe!
 
