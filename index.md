@@ -45,6 +45,6 @@ Follow and Support us on
 <a href="https://www.youtube.com/channel/UC_Qd7v56QH7UKp3u9Mu6Ksg" target="_blank" > <img width = "20" height = "20" src ="./assets/images/youtube-brands.svg"/> <span style = "font-family:sans-serif"> YouTube </span></a> <br/>
 <a href="https://www.facebook.com/owasptsc/" target="_blank" > <img width = "20" height = "20" src ="./assets/images/facebook-brands.svg"/> <span style = "font-family:sans-serif"> Facebook </span></a> <br/>
 
-Stay Updated, Stay Safe!
+#### Stay Updated, Stay Safe!
 
-~ OWASP VIIT
+#### ~ OWASP VIIT
