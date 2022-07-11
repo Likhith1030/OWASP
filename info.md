@@ -4,8 +4,7 @@
 
 ### Social Links
 
-- [Discord](https://discord.gg)
-- [Instagram](https://www.instagram.com)
-- [GitHub](https://github.com)
-- [LinkedIn](https://www.linkedin.com)
+- [Instagram](https://www.instagram.com/owasp.viit)
+- [LinkedIn](https://www.linkedin.com/in/owasp-aids-student-chapter-056b80244/)
 - [Twitter](https://twitter.com)
+- [GitHub](https://github.com)
