@@ -38,12 +38,12 @@ Our organization stands with a Chapter Leader, Chapter Manager, Secretary and th
 
 Follow and Support us on
 
-<a href="https://www.instagram.com/owasp_tiet/" target="_blank" ><img width = "20" height = "20" src ="./assets/images/instagram-brands.svg"/> <span style = "font-family:sans-serif">Instagram </span> </a> <br/>
+<a href="https://www.instagram.com/owasp.viit" target="_blank" ><img width = "20" height = "20" src ="./assets/images/instagram-brands.svg"/> <span style = "font-family:sans-serif">Instagram </span> </a> <br/>
 <a href="https://github.com/OWASP-STUDENT-CHAPTER" target="_blank" > <img width = "20" height = "20" src ="./assets/images/github-brands.svg"/> <span style = "font-family:sans-serif"> Github </span></a> <br/>
-<a href="https://twitter.com/Owasp_tiet" target="_blank" > <img width = "20" height = "20" src ="./assets/images/twitter-brands.svg"/> <span style = "font-family:sans-serif"> Twitter </span></a> <br/>
-<a href="https://www.linkedin.com/company/owasp-tiet/" target="_blank" > <img width = "20" height = "20" src ="./assets/images/linkedin-brands.svg"/> <span style = "font-family:sans-serif"> Linkedin </span></a> <br/>
-<a href="https://www.youtube.com/channel/UC_Qd7v56QH7UKp3u9Mu6Ksg" target="_blank" > <img width = "20" height = "20" src ="./assets/images/youtube-brands.svg"/> <span style = "font-family:sans-serif"> YouTube </span></a> <br/>
-<a href="https://www.facebook.com/owasptsc/" target="_blank" > <img width = "20" height = "20" src ="./assets/images/facebook-brands.svg"/> <span style = "font-family:sans-serif"> Facebook </span></a> <br/>
+<a href="https://twitter.com" target="_blank" > <img width = "20" height = "20" src ="./assets/images/twitter-brands.svg"/> <span style = "font-family:sans-serif"> Twitter </span></a> <br/>
+<a href="https://www.linkedin.com/in/owasp-aids-student-chapter-056b80244/" target="_blank" > <img width = "20" height = "20" src ="./assets/images/linkedin-brands.svg"/> <span style = "font-family:sans-serif"> Linkedin </span></a> <br/>
+<a href="https://www.youtube.com" target="_blank" > <img width = "20" height = "20" src ="./assets/images/youtube-brands.svg"/> <span style = "font-family:sans-serif"> YouTube </span></a> <br/>
+<a href="https://www.facebook.com" target="_blank" > <img width = "20" height = "20" src ="./assets/images/facebook-brands.svg"/> <span style = "font-family:sans-serif"> Facebook </span></a> <br/>
 
 Stay Updated, Stay Safe!
 
