@@ -6,7 +6,7 @@ region: Asia
 meetup-group: OWASP Vignan Institute of Information and Technology
 ---
 
-<img src="./assets/images/owt.png"/>
+<img src="./assets/images/owaspviit.png"/>
 
 ## Welcome
 
