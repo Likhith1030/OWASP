@@ -26,6 +26,14 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects/),
 
 We Have Lots Of Exciting Stuff Coming Up Very Soon ! Stay Tuned To Our Media Channels ... :)
 
+## Activities
+
+We majorly indulge in sharing our knowledge through our blogs (both on Medium as well as on Blogger) and CTFs, spreading cybersecurity awareness with our weekly news, infographics, quiz, and instagram reels, conduct various events like CTFs, hackathons, webinars, workshops, open-quiz, along with various other cybersecurity events and most importantly learn together and contribute to the open-source community with our projects.
+
+## Where we've come
+
+Our organization stands with a Chapter Leader, Chapter Manager, Secretary and the sub-ordinating heads of various departments (Technical, Web-development, Design, and Operations). Each member is assigned certain roles and they regularly contribute for the development and growth of the chapter. Together, we work together to come together to fulfil our primary purpose - to spread awareness about cyber security.
+
 ## CONNECT WITH US!
 
 Follow and Support us on
